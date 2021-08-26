@@ -1,2 +1,2 @@
 # Hero-webs
-Superhero info.
+Info on Superheroes(Not quite complete, Class project)
